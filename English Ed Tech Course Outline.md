@@ -25,7 +25,7 @@ Here are the basics about this learning experience:
 
 <img src="https://i0.wp.com/plottingplots.com/wp-content/uploads/2021/04/love-death-rj.png?resize=1024%2C833&ssl=1" alt="screenshot from the PlottingPlots website" style="zoom:67%;" />
 
-This week, you will dive deeply into how we can read texts computationally in order to explore and discover new meanings and connections. For this exploration, we will make great use of a tool/website called [Plotting Plots](https://plottingplots.com), authored by a former colleague, Dr. Tom Liam Lynch. Tom has done extensive work in introducing and training ELA teachers in the powerful use of these types of computational reading tools. Here's [a recent article](https://plottingplots.com/chatgpt-tells-me-the-pros-and-cons-of-reading-books-with-literary-data/) on the site by Tom on ChatGPT and reading books. 
+This week, you will dive deeply into how we can read texts computationally in order to explore and discover new meanings and connections. For this exploration, we will make great use of a tool/website called [Plotting Plots](https://plottingplots.com), authored by a former colleague, Dr. Tom Liam Lynch. Tom has done extensive work in introducing and training ELA teachers in the powerful use of these types of computational reading tools. 
 
 Here is what you will do this week:
 
@@ -43,18 +43,20 @@ Here is what you will do this week:
 
 ![fountain pen](https://images.unsplash.com/photo-1455390582262-044cdead277a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1073&q=80)
 
-For those of us who teach students to read and/or write, writing tools seem transparent in a way. Just in the background. But I firmly believe that, to paraphrase Churchill, we build our tools and then our tools build us. Writing tools are no exception.
+For those of us who teach students to read and/or write, writing tools seem transparent in a way. Just in the background. But I firmly believe that, to paraphrase Churchill, we build our tools and then our tools build us. Writing tools are no exception. You are probably most familiar with working in Office 365 and/or Google Docs. This week, you will add [Markdown](https://en.wikipedia.org/wiki/Markdown) to your repetoire.
+
+
 
 Here is what you will do this week:
 
-1. **Reading - The Simple Things You Need to Know as a Data Science Beginner.** Please start this week's work by reading this (to my mind) [interesting and thought provoking article](https://towardsdatascience.com/the-simple-things-you-need-to-know-as-a-data-science-beginner-c4b9ffd0b516) from our friends at [Towards Data Science](https://towardsdatascience.com/). Feel free to **share your reactions** on Slack.
+1. **Reading - Educational technology: what it is and how it works.** Please start this week's work by reading this (to my mind) [interesting and thought provoking article](https://drive.google.com/file/d/1QbwQrYAnRyQfKTGdrTLoa8xrsELqwXy5/view?usp=drive_link) from [Jon Dron](https://jondron.ca), who has a great deal of expertise in learning technologies. This article (and Jon's work in general) has shaped much of how I think about learning technologies. Please read the article and create a substantive reflection in your journal.
 
-2. **Play/Work with Python and R**. Now that you have set yourself up to write Python and R code, it's time to roll up our sleeves and start coding. Here's what to do:
+2. **Play/Work with Markdown**. Markdown is a lightweight markup language (meaning a coding language), which means that it contains both text and instruction for how this text should be rendered. It has all kinds of cool features and these documents can easily be shared in ways that they look beautiful. This webpage was written entirely using Markdown.
 
-   | Coding Language | Resource(s)                                                  | Assignments                                                  |
-   | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | Python          | [Getting Started with Text Analysis in Python](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7) | Our friends at Towards Data Science have put together this primer on textual analysis in Python, which does a really good job providing context as well as practical examples of the kinds of things that can be done. Be sure to complete the various sets of examples in this article, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
-   | R               | [R for Data Science, chapter 5: Data Transformation](https://r4ds.had.co.nz/transform.html) | Work through the the various tools and examples in Chapter 5. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+   | Chunks                                                       | Assignments                                                  |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | **Chunk 1: Working with Markdown**                           | Please work through getting yourself set up with StackEdit and Markdown. Please work through the ideas and resources in this document, and then share what you learn and do via your journal, as well as sharing your StackEdit document with me. |
+   | **Chunk 2: Create one or more resources for your students using Markdown** | Once you feel like you have a handle on working fluidly with Markdown in StackEdit, I ask that you create one or more documents using these tools that you would use with your students. Really push beyond your comfort zone to create beautiful and useful multimedia resources for your students. |
 
 
 
@@ -70,13 +72,13 @@ Now that we have done some work to manipulate data in Python and R, we will turn
 
 Here is what you will do this week:
 
-1. **Reading - An Extensive Step by Step Guide to Exploratory Data Analysis** Please start this week's work by reading [this very useful and interesting article](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)that provides a practical overview of exploratory data analysis from our friends at [Towards Data Science](https://towardsdatascience.com/). Feel free to **share your reactions** on Slack.
+1. **Reading - Chat GPT**. Here's [a recent article](https://plottingplots.com/chatgpt-tells-me-the-pros-and-cons-of-reading-books-with-literary-data/) on the site by Tom on ChatGPT and reading books. Please read it and then perform a substantive reflection in your journal.
 
-2. **Play/Work with Python and R**. Here is some work that will allow us to explore data in Python and R. Here's what to do:
+2. **Writing with AI tools/ChatGPT**. Here is some work that will allow us to explore data in Python and R. Here's what to do:
 
    | Coding Language | Resource(s)                                                  | Assignment                                                   |
    | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | Python          | Finding Temporal Patterns in Twitter Posts: Exploratory Data Analysis with Python, [Part 1](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-8aac618c8699) and [Part 2](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-part-2-8eec19431c23) | We will be building on last week's work with Pandas to explore temporal patterns in Twitter Posts. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+   | Python          | Here's [a recent article](https://plottingplots.com/chatgpt-tells-me-the-pros-and-cons-of-reading-books-with-literary-data/) on the site by Tom on ChatGPT and reading books. | We will be building on last week's work with Pandas to explore temporal patterns in Twitter Posts. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
    | R               | [R for Data Science, chapter 7: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) | Work through the the various tools and examples in Chapter 7. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
 
    
