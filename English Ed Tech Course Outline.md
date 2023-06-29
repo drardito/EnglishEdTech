@@ -51,11 +51,13 @@ Here is what you will do this week:
 
 1. **Reading - Educational technology: what it is and how it works.** Please start this week's work by reading this (to my mind) [interesting and thought provoking article](https://drive.google.com/file/d/1QbwQrYAnRyQfKTGdrTLoa8xrsELqwXy5/view?usp=drive_link) from [Jon Dron](https://jondron.ca), who has a great deal of expertise in learning technologies. This article (and Jon's work in general) has shaped much of how I think about learning technologies. Please read the article and create a substantive reflection in your journal.
 
-2. **Play/Work with Markdown**. Markdown is a lightweight markup language (meaning a coding language), which means that it contains both text and instruction for how this text should be rendered. It has all kinds of cool features and these documents can easily be shared in ways that they look beautiful. This webpage was written entirely using Markdown.
+2. **Reading - [Writing As Academic Practice In An Time Of Generative AI](https://helenbeetham.substack.com/p/writing-as-academic-practice-in-an).** Please read this transcript from an interesting (at least to me) recent conference presentation, then create a substantive reflection in your journal.
+
+3. **Play/Work with Markdown**. Markdown is a lightweight markup language (meaning a coding language), which means that it contains both text and instruction for how this text should be rendered. It has all kinds of cool features and these documents can easily be shared in ways that they look beautiful. This webpage was written entirely using Markdown.
 
    | Chunks                                                       | Assignments                                                  |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | **Chunk 1: Working with Markdown**                           | Please work through getting yourself set up with StackEdit and Markdown. Please work through the ideas and resources in this document, and then share what you learn and do via your journal, as well as sharing your StackEdit document with me. |
+   | **Chunk 1: [Working with Markdown](https://github.com/drardito/EnglishEdTech/blob/main/Working%20with%20Markdown.md)** | Please work through getting yourself set up with StackEdit and Markdown. Please work through the ideas and resources in [this document](https://github.com/drardito/EnglishEdTech/blob/main/Working%20with%20Markdown.md), and then share what you learn and do via your journal, as well as sharing your StackEdit document with me. |
    | **Chunk 2: Create one or more resources for your students using Markdown** | Once you feel like you have a handle on working fluidly with Markdown in StackEdit, I ask that you create one or more documents using these tools that you would use with your students. Really push beyond your comfort zone to create beautiful and useful multimedia resources for your students. |
 
 
