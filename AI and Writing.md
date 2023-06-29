@@ -18,50 +18,8 @@ Here are some AI tools that can be used to write, create images and (possibly) d
 
 [You.com](https://you.com/) (search engine and AI) 
 
+[Bing.com](https://www.bing.com) (Microsoft Search Engine enhanced with AI)
+
 [DALL-E](https://openai.com/product/dall-e-2) (image generation) 
 
 [ZeroGPT](https://www.zerogpt.com/) (AI Writing detector) 
-
-
-
-**Suggested Outline:** 
-
-1. Welcome/Overview of the Workshop 
-
-1. Brief Intro – What is AI/ChatGPT (and others like Google’s Bard, etc.) 
-
-1. How does this tool work? 
-
-1. What can it do (and not do)? 
-
-1. Diving In 
-
-1. Exploring Different Tools and Types of Writing 
-
-1. ChatGPT/AI Writing 
-
-1. ChatGPT 
-
-1. Google Bard 
-
-1. You.com 
-
-1. AI writing detectors 
-
-1. Part 2: AI Writing Tools and Our Courses and Assignments (departmental groupings) 
-
-1. Academic Integrity Policies for Syllabi 
-
-1. Look in depth at some key assignments in your courses 
-
-1. What about Bias? 
-
-1. Next steps (at the department level) 
-
-1. Whole Group Discussion 
-
-1. What did we learn? 
-
-1. What are our next steps as a School and departments? 
-
-1. What kinds of structures do we need to support this work? 

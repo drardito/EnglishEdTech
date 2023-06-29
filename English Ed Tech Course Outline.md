@@ -51,14 +51,13 @@ Here is what you will do this week:
 
 1. **Reading - Educational technology: what it is and how it works.** Please start this week's work by reading this (to my mind) [interesting and thought provoking article](https://drive.google.com/file/d/1QbwQrYAnRyQfKTGdrTLoa8xrsELqwXy5/view?usp=drive_link) from [Jon Dron](https://jondron.ca), who has a great deal of expertise in learning technologies. This article (and Jon's work in general) has shaped much of how I think about learning technologies. Please read the article and create a substantive reflection in your journal.
 
-2. **Reading - [Writing As Academic Practice In An Time Of Generative AI](https://helenbeetham.substack.com/p/writing-as-academic-practice-in-an).** Please read this transcript from an interesting (at least to me) recent conference presentation, then create a substantive reflection in your journal.
-
-3. **Play/Work with Markdown**. Markdown is a lightweight markup language (meaning a coding language), which means that it contains both text and instruction for how this text should be rendered. It has all kinds of cool features and these documents can easily be shared in ways that they look beautiful. This webpage was written entirely using Markdown.
+2. **Play/Work with Markdown**. Markdown is a lightweight markup language (meaning a coding language), which means that it contains both text and instruction for how this text should be rendered. It has all kinds of cool features and these documents can easily be shared in ways that they look beautiful. This webpage was written entirely using Markdown.
 
    | Chunks                                                       | Assignments                                                  |
    | ------------------------------------------------------------ | ------------------------------------------------------------ |
    | **Chunk 1: [Working with Markdown](https://github.com/drardito/EnglishEdTech/blob/main/Working%20with%20Markdown.md)** | Please work through getting yourself set up with StackEdit and Markdown. Please work through the ideas and resources in [this document](https://github.com/drardito/EnglishEdTech/blob/main/Working%20with%20Markdown.md), and then share what you learn and do via your journal, as well as sharing your StackEdit document with me. |
    | **Chunk 2: Create one or more resources for your students using Markdown** | Once you feel like you have a handle on working fluidly with Markdown in StackEdit, I ask that you create one or more documents using these tools that you would use with your students. Really push beyond your comfort zone to create beautiful and useful multimedia resources for your students. |
+
 
 
 
@@ -74,14 +73,16 @@ Now that we have done some work to manipulate data in Python and R, we will turn
 
 Here is what you will do this week:
 
-1. **Reading - Chat GPT**. Here's [a recent article](https://plottingplots.com/chatgpt-tells-me-the-pros-and-cons-of-reading-books-with-literary-data/) on the site by Tom on ChatGPT and reading books. Please read it and then perform a substantive reflection in your journal.
+1. **Reading - Chat GPT**. Here's [a recent article](https://plottingplots.com/chatgpt-tells-me-the-pros-and-cons-of-reading-books-with-literary-data/) on the site by Tom Liam Lynch on ChatGPT and reading books. Please read it and then create a substantive reflection in your journal.
 
-2. **Writing with AI tools/ChatGPT**. Here is some work that will allow us to explore data in Python and R. Here's what to do:
+2. **Reading - [Writing As Academic Practice In An Time Of Generative AI](https://helenbeetham.substack.com/p/writing-as-academic-practice-in-an).** Please read this transcript from an interesting (at least to me) recent conference presentation, then create a substantive reflection in your journal.
 
-   | Coding Language | Resource(s)                                                  | Assignment                                                   |
-   | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | Python          | Here's [a recent article](https://plottingplots.com/chatgpt-tells-me-the-pros-and-cons-of-reading-books-with-literary-data/) on the site by Tom on ChatGPT and reading books. | We will be building on last week's work with Pandas to explore temporal patterns in Twitter Posts. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
-   | R               | [R for Data Science, chapter 7: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) | Work through the the various tools and examples in Chapter 7. Be sure to complete the various sets of exercises, and be sure to **publish and share your work** with us. Remember to create artifacts of and reflections on your learning – both the things that worked and those that didn't work. |
+3. **Writing with AI tools/ChatGPT**. Here is some work that will allow you to first explore some AI writing tools and then to take a deep dive into using AI tools to perform searches, create documents, design activities for your students, and more. As you do this work, be sure to document your learning and substantively reflect on what you have done and seen and thought in your journal.
+
+   | Chunks                                                 | Assignment                                                   |
+   | ------------------------------------------------------ | ------------------------------------------------------------ |
+   | **Chunk 1: Working with AI Tools.**                    | The goal of this junk is to wade into the water of AI tools to do the kinds of writing things that we do: perform searches, create documents, explore what make ChatGPT prompts more and more useful. [Here are some resources](https://github.com/drardito/EnglishEdTech/blob/main/AI%20and%20Writing.md) to get you started, but there is no need to be limited by them. |
+   | **Chunk 2: Diving Deeply into Working with AI Tools.** | Now that you have done some wading, it is time to dive more deeply into writing with these AI tools. Try out some more substantive writing, such as a long form research paper with citations and work to craft some assignments for your students (along with samples) that you could use in your classroom. |
 
    
 
