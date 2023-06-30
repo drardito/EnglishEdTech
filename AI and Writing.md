@@ -23,3 +23,5 @@ Here are some AI tools that can be used to write, create images and (possibly) d
 [DALL-E](https://openai.com/product/dall-e-2) (image generation) 
 
 [ZeroGPT](https://www.zerogpt.com/) (AI Writing detector) 
+
+[TinyWow](https://tinywow.com) (A collection of writing and generative AI tools)
