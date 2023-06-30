@@ -69,7 +69,7 @@ Here is what you will do this week:
 
 In the past several months, our news feeds have been clogged with stories about AI writing tools such as ChatGPT. In this week, we will be doing a deep dive into this type of machine assisted writing.
 
-Now that we have done some work to manipulate data in Python and R, we will turn our attention this week to the exploration of data using those two powerful programming languages. 
+Now that we have done some work using Markdown, we will turn our attention this week to the writing with AI tools.
 
 Here is what you will do this week:
 
