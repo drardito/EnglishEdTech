@@ -48,7 +48,7 @@ By the way, I highly recommend her recent book, "[You Look Like a Thing and I Lo
 2. **Less dense, but useful.** [This article](https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286) is from our friends at Towards Data Science (which provided resources for our Data and Education independent study). Note: to read this, you will need to create a free account on [Medium](https://medium.com).
 
 
-3. **More dense, but really good**. Computer Science Stephen Wolfram has written https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/of how AI models work. 
+3. **More dense, but really good**. Computer Science Stephen Wolfram has written [What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/), which provides a detailed explanation how AI models work. 
 
 Please do these readings, then create a journal to record your thoughts, questions, reactions, wonderings, etc. and share it with me. 
 
