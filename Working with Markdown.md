@@ -13,7 +13,7 @@ The major task this week is to explore [StackEdit](https://stackedit.io) and [Ma
 
 I ask that you think about this work in terms of ***cycles***, as depicted below.
 
-![](/home/gardito/Documents/GitHub/teachingwithtech/img/Working with StackEdit Markdown.png)
+![](https://github.com/drardito/EnglishEdTech/blob/main/Images/Working%20with%20StackEdit%20Markdown.png?raw=true)
 
 ***
 
